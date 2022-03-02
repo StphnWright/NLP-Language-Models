@@ -1447,7 +1447,7 @@ j|v	1
 j|t	1
 ji|j	1
 je|j	1
-i|í	1
+i|Ã­	1
 i|x	1
 i|m	1
 i|j	1
@@ -1485,7 +1485,7 @@ f|i	1
 f|h	1
 fo|of	1
 fh|f	1
-e|è	1
+e|Ã¨	1
 e|ev	1
 ex|xe	1
 eq|e	1
@@ -1522,7 +1522,7 @@ br|rb	1
 bm|mb	1
 bh|b	1
 bd|b	1
-a|á	1
+a|Ã¡	1
 a|f	1
 a|b	1
 a|ah	1
@@ -1585,3 +1585,4 @@ Ap|A	1
  |'	1
  w| 	1
  t|t 	1
+
